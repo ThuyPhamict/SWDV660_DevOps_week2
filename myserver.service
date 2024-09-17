@@ -3,7 +3,7 @@ Description=My Little Server
 # Author: Natan Cabral
 [Service]
 # Start Service and Examples
-ExecStart=/usr/bin/node /home/ec2-user/application.js
+ExecStart=/usr/bin/node/home/ec2-user/application.js
 # ExecStart=/usr/bin/sudo /usr/bin/node /home/myserver/server.js
 # ExecStart=/usr/local/bin/node /var/www/project/myserver/server.js
 # Options Stop and Restart
